@@ -12,7 +12,7 @@ README for ALSoundRecognition SDK
     2.使用asr文件夹中的autoload.ini替换系统naoqi/preferences/autoload.ini文件。
     3.重启naoqi，运行demo/demo.py
     
-    在线文档：[https://zyqzyq.github.io/ALSoundRecognition](https://zyqzyq.github.io/ALSoundRecognition)
+    在线文档：[https://zyqzyq.github.io/ALSoundRecognition/](https://zyqzyq.github.io/ALSoundRecognition/)
     
     
 ## 文件目录
